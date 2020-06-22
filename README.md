@@ -1,6 +1,6 @@
-# cardclass
+# Card Widget
+A mini flutter application with a chat like front layout made with card widget,Padding and Inkwell effect
 
-A new Flutter application.
 
 ## Getting Started
 
